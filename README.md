@@ -11,4 +11,4 @@ Built using native Elementor Docs and Omnisend Docs, these two are the only depe
 
 Contributions are welcomed
 
-p.s. I did not build a time-out, maybe in time.
+p.s. I did not build a settings panel/other fields, maybe in time.
