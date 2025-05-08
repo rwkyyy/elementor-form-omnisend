@@ -1,5 +1,6 @@
-# elementor-form-omnisend
+# Elementor Form Extension for Omnisend
 A basic plugin that allows you to integrate Elementor Forms with Omnisend on a form level, after submit, there are basic settings in the plugin file for it to work only with the email field, but it can be easily extended
+
 # Steps to activate
 1. install the plugin
 2. activate it
